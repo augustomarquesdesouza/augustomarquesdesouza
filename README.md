@@ -1,4 +1,4 @@
-# Augusto
+# Desenvolvedor Web e UX/UI Design
 
 Olá! Eu sou o Augusto, um entusiasta de desenvolvimento web e UX/UI design. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter e trabalho como estagiário na **Bluepause**.
 
