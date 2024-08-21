@@ -15,9 +15,8 @@ Olá! Eu sou o Augusto, desenvolvedor web e UX/UI design. Atualmente, estou curs
 - CSS3
 - JavaScript
 - Bootstrap
-- Figma (para design UI/UX)
-- Git & GitHub
 - PHP
+- Figma (para design UI/UX)
 
 ## Contato
 
