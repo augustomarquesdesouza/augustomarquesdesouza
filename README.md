@@ -24,7 +24,7 @@ Olá! Eu sou o Augusto, desenvolvedor web e UX/UI design. Atualmente, estou curs
 
 Você pode me encontrar no:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-marques-de-souza-8380a5278/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustomarquesdesouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-marques-de-souza-8380a5278/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustomarquesdesouza@gmail.com)
 
 
 ---
