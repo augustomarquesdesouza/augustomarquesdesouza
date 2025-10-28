@@ -5,7 +5,6 @@ Olá! Eu sou o Augusto, desenvolvedor web e UX/UI design. Atualmente, estou curs
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninter.
-- 💼 Desenvolvedor Frontend na Beelieve Group.
 - 💻 Apaixonado por UX/UI design e desenvolvimento front-end.
 - 🎮 Gosto de jogar videogames e praticar esportes nas horas vagas.
 
